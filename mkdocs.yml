@@ -1,0 +1,19 @@
+site_name: helloworld-aka-gp000
+site_description: 
+repo_url: https://github.com/nbst-devhub-template/helloworld-aka-gp000
+edit_uri: edit/main/techdocs/docs
+
+plugins:
+  - techdocs-core
+
+theme:
+  name: material
+  font:
+    text:
+      - "Arial"
+      - "Helvetica"
+      - "sans-serif"
+
+# Note for content editors, edit only the section below
+#nav:
+#  - helloworld-aka-gp000 Documentation: index.md
